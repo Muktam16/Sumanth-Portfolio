@@ -837,7 +837,7 @@ i.fa-solid.fa-up-long:hover{
 @media(max-width:768px){
     /*----------------------------------------------- header -------------------------------------*/
     body{
-        background:url(./resources/bkgrnd.jpg) ;
+        background : #05112;
         color: #63aefa;
         padding: 10px;
 
